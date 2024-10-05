@@ -9,7 +9,7 @@ int main(){
     int array[]={1,2,3};
     PrintArray(array);
     return 0;
-}//
+}
 int main(){
     int a[]={1,2,3};
     int b[3]={0};

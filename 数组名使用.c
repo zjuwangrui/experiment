@@ -9,12 +9,12 @@ int main(){
     int array[]={1,2,3};
     PrintArray(array);
     return 0;
-}//数组名做指针变量
+}//
 int main(){
     int a[]={1,2,3};
     int b[3]={0};
     printf("%d",a);
-    a++;
+   // a++;
     printf("%d",*a);
     return 0;
-}//数组名++何时合法
+}//
